@@ -11,7 +11,7 @@ The app is based on the eponimous project that appears in the tutorial [Code 15 
 
 * Open your terminal - Windows: `Win + R`, then type `cmd` | Mac: `Command + space`, then type `Terminal`
 * Navigate to a directory of your choosing using the `cd` command
-* Run this command in your OS terminal: `gh repo clone German-Cobian/Color-Generator` to get a copy of the project
+* Run this command in your OS terminal: `git clone git@github.com:German-Cobian/Color-Generator.git` to get a copy of the project
 * Navigate to the project's directory using the `cd` command
 * In the clone folder, run `npm install`
 * To fire up the server run `npm start`
